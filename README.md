@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on personal portfolio
-- 🌱 I’m currently learning Html,css and javascript
+- 👀 I'm Interested in Mobile development, Fullstack 
+- 🔭 I’m currently working on a personal portfolio
+- 🌱 I’m currently learning Dart and flutter.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
